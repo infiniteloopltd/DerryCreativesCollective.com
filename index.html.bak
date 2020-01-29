@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>Derry Creatives Collective</title>
+
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link href="css/animate.min.css" rel="stylesheet">
+  <link href="css/animate.css" rel="stylesheet" />
+  <link href="css/prettyPhoto.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+ 
+</head>
+
+<body>
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="row">
+        <div class="site-logo">
+          <a href="index.html" class="brand">DerryCreativesCollective</a>
+        </div>
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+            <i class="fa fa-bars"></i>
+          </button>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="menu">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#portfolio">Ventures</a></li>
+            <li><a href="#features">Community</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+        <!-- /.Navbar-collapse -->
+      </div>
+    </div>
+  </nav>
+
+  <div id="home">
+    <div class="slider">
+      <div id="about-slider">
+        <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators visible-xs">
+            <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-slider" data-slide-to="1"></li>
+            <li data-target="#carousel-slider" data-slide-to="2"></li>
+          </ol>
+
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="images/slide1.jpg" class="img-responsive" alt="">
+            </div>
+            <div class="item">
+              <img src="images/slide2.jpg" class="img-responsive" alt="">
+            </div>
+            <div class="item">
+              <img src="images/slide3.jpg" class="img-responsive" alt="">
+            </div>
+          </div>
+
+          <a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
+            <i class="fa fa-angle-left"></i>
+          </a>
+
+          <a class=" right carousel-control hidden-xs" href="#carousel-slider" data-slide="next">
+            <i class="fa fa-angle-right"></i>
+          </a>
+        </div>
+        <!--/#carousel-slider-->
+      </div>
+      <!--/#about-slider-->
+    </div>
+  </div>
+
+  <section id="about">
+    <div class="container">
+      <div class="center">
+        <div class="col-md-6 col-md-offset-3">
+          <h2>About Us</h2>
+          <hr>
+          <p class="lead">Derry Creatives Collective is the foundational company that supports the #DERRYcreatives community. It's here to facilitate the online community and to bring that community together in the real world, in order to connect, create and collaborate. </p>
+
+<p class="lead">
+We also support, in small ways, the ventures that members of the #DERRYcreatives launch. If you are at that point in your journey let us know and let's make it happen together - we are always interested in new ideas with the potential to be independent ventures.
+</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 wow fadeInRight">
+          <img src="images/1.png" class="img-responsive" />
+          <p>There is a regular calendar of activities that Derry Creatives Collective promotes. Join the community on Facebook, connect with our media partner, Derry Live List or bookmark our home page. We have a new social club in development so if you want to express an interest in becoming a member register at <a href="https://www.facebook.com/groups/DERRYcreatives/">#DERRYcreatives</a></p>
+
+        </div>
+        <!--/.col-sm-6-->
+
+        <div class="col-sm-6 wow fadeInDown">
+          <div class="accordion">
+            <div class="panel-group" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading active">
+                  <h3 class="panel-title">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1">
+                      Join the #DERRYcreatives community
+                      <i class="fa fa-angle-right pull-right"></i>
+                    </a>
+                  </h3>
+                </div>
+
+                <div id="collapseOne1" class="panel-collapse collapse in">
+                  <div class="panel-body">
+                    <div class="media accordion-inner">
+                      <div class="pull-left">
+                        <img class="img-responsive" src="images/accordion1.png">
+                      </div>
+                      <div class="media-body">
+                        <h4>Start making things happen</h4>
+                        <p><a href="https://www.facebook.com/groups/DERRYcreatives/">Join #DERRYcreatives</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h3 class="panel-title">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwo1">
+                      Make yourself heard on Derry Live List
+                      <i class="fa fa-angle-right pull-right"></i>
+                    </a>
+                  </h3>
+                </div>
+                <div id="collapseTwo1" class="panel-collapse collapse">
+                  <div class="panel-body">
+                    <p>Connect with our media partner, Derry Live List for free promotion</p>
+					<p><a href="https://www.derrylivelist.com/">www.derrylivelist.com</a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h3 class="panel-title">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">
+                      Get your own one page website
+                      <i class="fa fa-angle-right pull-right"></i>
+                    </a>
+                  </h3>
+                </div>
+                <div id="collapseThree1" class="panel-collapse collapse">
+                  <div class="panel-body">
+                     <p>Connect with our tech partner, Infinite Loop for a cheap one page website</p>
+					<p><a href="http://www.infiniteloop.ie/">www.infiniteloop.ie</a>
+                  </div>
+                </div>
+              </div>
+
+              
+            </div>
+            <!--/#accordion1-->
+          </div>
+        </div>
+
+      </div>
+      <!--/.row-->
+    </div>
+    <!--/.container-->
+  </section>
+  <!--/#about-->
+
+  <section id="portfolio">
+    <div class="container">
+      <div class="center">
+        <div class="col-md-6 col-md-offset-3">
+          <h2>Ventures</h2>
+          <hr>
+          <p class="lead">Ventures are new creative enterprises that you create yourself. They can start as initiatives under the umbrella of Derry Creatives Collective if that is helpful but they remain independent and led by you. Board members and the network within the #DERRYcreatives community are willing to give you time where they can. Sometimes we help you access other supports and connections and other times we support your promotion. We are incredibly proud to be associated with the following ventures</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="col-lg-12">
+        
+
+        <div class="row">
+          <div class="portfolio-items">
+            <div class="portfolio-item apps col-xs-12 col-sm-4 col-md-3">
+              <div class="recent-work-wrap">
+                <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
+                <div class="overlay">
+                  <div class="recent-work-inner">
+                    <h3><a href="#">Music Capital</a></h3>
+                    <p>Providing musicians with unique spaces where they are listened to and understood</p>
+                    <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i>
+                      View</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--/.portfolio-item-->
+
+            <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+              <div class="recent-work-wrap">
+                <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
+                <div class="overlay">
+                  <div class="recent-work-inner">
+                    <h3><a href="#">Amazon Alexa</a></h3>
+                    <p>Our alexa bot for Tourism Northern Ireland</p>
+                    <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i>
+                      View</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--/.portfolio-item-->
+
+            <div class="portfolio-item bootstrap wordpress col-xs-12 col-sm-4 col-md-3">
+              <div class="recent-work-wrap">
+                <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
+                <div class="overlay">
+                  <div class="recent-work-inner">
+                    <h3><a href="#">Collaboration for change</a></h3>
+                    <p>Here to enable the people who are actively involved in making positive change</p>
+                    <a href="https://www.cfctogether.org/" ><i class="fa fa-eye"></i>
+                      View</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--/.portfolio-item-->
+
+            <div class="portfolio-item joomla wordpress apps col-xs-12 col-sm-4 col-md-3">
+              <div class="recent-work-wrap">
+                <img class="img-responsive" src="images/portfolio/recent/item4.png" alt="">
+                <div class="overlay">
+                  <div class="recent-work-inner">
+                    <h3><a href="#">Buy, Sell, Swap, Music, Art, Tech Market</a></h3>
+                    <p>One of the ways we sustain this support is by developing our own ventures and services.You can get involved in those too</p>
+                    <a class="preview" href="images/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i>
+                      View</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--/.portfolio-item-->
+
+           
+
+
+         
+         
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/#portfolio-item-->
+
+  <section id="features">
+    <div class="container">
+      <div class="row">
+        <div class="center">
+          <div class="col-md-6 col-md-offset-3">
+            <h2>Community</h2>
+            <hr>
+            <p class="lead">#DERRYcreatives is an open-source, collaborative group of people active in the creative fields based or connected to Derry, the place or the idea. We work together for the common good, launch new ventures and help put Derry - the creative city - on the map. 
+			</p>
+			<p class="lead">
+			We provide a platform for you to network, exchange, collaborate, discuss, develop ideas, get support and learn from your peers.   Join us and get involved 
+
+              </p>
+          </div>
+        </div>
+
+        <div class="col-md-4 wow fadeInLeft">
+          <h3>#DERRYcreatives Map</h3>
+          <img src="images/portfolio/recent/item6.png" alt="">
+          <p>#DERRYcreatives are creating a map of all the active creative practitioners, organisations, spaces, businesses and events in Derry, Strabane, Donegal and North West of Ireland area. Get involved to help them put you and Derry on the map and make it easier for others to find the creative things they are looking for.
+The map is open to all creatives in the area - simply follow the links relevant to you below, enter your details and you will appear on the <a href="https://www.google.com/maps/d/u/0/viewer?mid=1LtZ8HNSXdx1UqVwYMHJVQZ4WHeU&ll=54.93141135564052%2C-7.500316528515668&z=9">#DERRYcreatives Map</a>.
+</p>
+        </div>
+
+        <div class="col-md-4 wow fadeInUp">
+          <h3>Spread the word</h3>
+          <img src="images/portfolio/recent/item5.png" alt="">
+          <p>
+If you are active in more than one specialism you can fill out separate forms and appear against more than one so that anyone searching for what you do via the map will see you. If you need to update your details at any point contact Kevin on address below for the simple 'how to'
+Its very much an open source and developing project so help spread the word, make suggestions, be a critical friend or suggest any improvements - just get in touch <a href="mailto:derrycreatives@gmail.com">derrycreatives@gmail.com</a></p>
+        </div>
+
+        <div class="col-md-4 wow fadeInRight">
+          <h3>Get on the map</h3>
+          <img src="images/portfolio/recent/item4.png" alt="">
+          <p>
+<a href="https://goo.gl/forms/tI15BaWf6dUU50Zw2">Creative Practitioners</a> - You are an individual artist or creative practitioner
+<br>
+<a href="https://goo.gl/forms/YLcDqSFq5RoOlhlu1">Creative Businesses</a> - You are a creative businesses of more than 1 (for sole traders see Creative Practitioner)
+<br>
+<a href="https://goo.gl/forms/MhYzTwM4rTyDpqZn2">Creative Organisations</a> -  You are a non venue based creative group, organisation or network usually working in the not for profit sector  
+<br>
+<a href="https://goo.gl/forms/k4crOg9XK2j9phcu1">Creative Spaces</a> - For venues or public spaces (pop up or permanent)
+ <br>  
+<a href="https://goo.gl/forms/PzuifouO01lQLr6V2">Creative Events</a> - For events and festivals that usually happen annually</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <div class="map">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d73218.59451930702!2d-7.381856869027362!3d55.006743786306274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sit!4v1580294780327!5m2!1sen!2sit" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+   
+  </div>
+  <section id="contact">
+    <div class="contact-page">
+      <div class="container">
+        <div class="center">
+          <h2>Contact Us</h2>
+        </div>
+        <div class="row contact-wrap">
+          <div class="col-md-8 col-md-offset-2">
+            <center>
+			<p>Email: <a href="mailto:derrycreatives@gmail.com">derrycreatives@gmail.com</a></p>
+			<p>Phone: <a href="tel:00447779092023">07779092023</a>
+            </center>
+          </div>
+        </div>
+        <!--/.row-->
+      </div>
+      <!--/.container-->
+    </div>
+    <!--/#contact-page-->
+  </section>
+
+  <footer id="footer" class="midnight-blue">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+          <div class="text-center">
+            <a href="#home" class="scrollup"><i class="fa fa-angle-up fa-3x"></i></a>
+          </div>
+          &copy; Derry creatives Collective Ltd
+		  <a href="https://beta.companieshouse.gov.uk/company/NI651029">(NI651029)</a>
+          <div class="credits">
+            Designed by <a href="http://infiniteloop.ie">Infinite Loop Development Ltd</a>
+          </div>
+        </div>
+
+        <div class="top-bar">
+          <div class="col-lg-12">
+            <div class="social">
+              <ul class="social-share">
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!--/#footer-->
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="js/jquery.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.prettyPhoto.js"></script>
+  <script src="js/jquery.isotope.min.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/main.js"></script>
+  <script src="contactform/contactform.js"></script>
+
+</body>
+
+</html>
