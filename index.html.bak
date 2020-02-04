@@ -39,7 +39,7 @@
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About Us</a></li>
             <li><a href="#portfolio">Ventures</a></li>
-            <li><a href="#features">Community</a></li>
+            <li><a href="#features">Get on the Map</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </div>
@@ -130,7 +130,12 @@ We also support, in small ways, the ventures that members of the #DERRYcreatives
                       </div>
                       <div class="media-body">
                         <h4>Start making things happen</h4>
-                        <p><a href="https://www.facebook.com/groups/DERRYcreatives/">Join #DERRYcreatives</a></p>
+                       <p ><a href="https://www.facebook.com/groups/DERRYcreatives/">#DERRYcreatives </a> is an open-source, collaborative group of people active in the creative fields based or connected to Derry, the place or the idea. We work together for the common good, launch new ventures and help put Derry - the creative city - on the map. 
+						</p>
+						<p >
+						We provide a platform for you to network, exchange, collaborate, discuss, develop ideas, get support and learn from your peers.   Join us and get involved 
+
+						  </p>
                       </div>
                     </div>
                   </div>
@@ -166,11 +171,27 @@ We also support, in small ways, the ventures that members of the #DERRYcreatives
                 <div id="collapseThree1" class="panel-collapse collapse">
                   <div class="panel-body">
                      <p>Connect with our tech partner, Infinite Loop for a cheap one page website</p>
-					<p><a href="http://www.infiniteloop.ie/">www.infiniteloop.ie</a>
+					<p><a href="http://www.infiniteloop.ie/">www.infiniteloop.ie</a></p>
                   </div>
                 </div>
               </div>
 
+				<div class="panel panel-default">
+                <div class="panel-heading">
+                  <h3 class="panel-title">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFour1">
+                      Get on the Map
+                      <i class="fa fa-angle-right pull-right"></i>
+                    </a>
+                  </h3>
+                </div>
+                <div id="collapseFour1" class="panel-collapse collapse">
+                  <div class="panel-body">
+                     <p>Get listed on the #DerryCreatives Map </p>
+					<p><a href="#features">Get on the map!</a></p>
+                  </div>
+                </div>
+              </div>
               
             </div>
             <!--/#accordion1-->
@@ -190,7 +211,7 @@ We also support, in small ways, the ventures that members of the #DERRYcreatives
         <div class="col-md-6 col-md-offset-3">
           <h2>Ventures</h2>
           <hr>
-          <p class="lead">Ventures are new creative enterprises that you create yourself. They can start as initiatives under the umbrella of Derry Creatives Collective if that is helpful but they remain independent and led by you. Board members and the network within the #DERRYcreatives community are willing to give you time where they can. Sometimes we help you access other supports and connections and other times we support your promotion. We are incredibly proud to be associated with the following ventures</p>
+          <p class="lead">Ventures are new creative enterprises that you create yourself. They can start as initiatives under the umbrella of Derry Creatives Collective if that is helpful but they remain independent and led by you. Board members and the network within the #DERRYcreatives community are willing to give you time where they can. Sometimes we help you access other supports and connections and other times we support your promotion. We are incredibly proud to have supported the beginnings of these exciting and independent ventures.</p>
         </div>
       </div>
     </div>
@@ -278,14 +299,9 @@ We also support, in small ways, the ventures that members of the #DERRYcreatives
       <div class="row">
         <div class="center">
           <div class="col-md-6 col-md-offset-3">
-            <h2>Community</h2>
+            <h2>Get on the Map</h2>
             <hr>
-            <p class="lead">#DERRYcreatives is an open-source, collaborative group of people active in the creative fields based or connected to Derry, the place or the idea. We work together for the common good, launch new ventures and help put Derry - the creative city - on the map. 
-			</p>
-			<p class="lead">
-			We provide a platform for you to network, exchange, collaborate, discuss, develop ideas, get support and learn from your peers.   Join us and get involved 
-
-              </p>
+          
           </div>
         </div>
 
@@ -359,8 +375,9 @@ Its very much an open source and developing project so help spread the word, mak
           &copy; Derry creatives Collective Ltd
 		  <a href="https://beta.companieshouse.gov.uk/company/NI651029">(NI651029)</a>
           <div class="credits">
-            Designed by <a href="http://infiniteloop.ie">Infinite Loop Development Ltd</a>. 
-			<a href="https://github.com/infiniteloopltd/DerryCreativesCollective.com">Open Source</a>
+            Designed by <a href="http://infiniteloop.ie">Infinite Loop Development Ltd</a>.<br>
+			
+			<a href="https://github.com/infiniteloopltd/DerryCreativesCollective.com">Open Source on GitHub</a>
           </div>
         </div>
 
